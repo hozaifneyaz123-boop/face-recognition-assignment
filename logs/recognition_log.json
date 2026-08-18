@@ -49,5 +49,22 @@
                 }
             }
         ]
+    },
+    {
+        "timestamp": "2026-08-18T19:15:28.987077",
+        "source": "input/test.jpg",
+        "faces": [
+            {
+                "identity": "hozaif",
+                "confidence": 0.42,
+                "distance": 0.58,
+                "bounding_box": {
+                    "top": 627,
+                    "right": 710,
+                    "bottom": 702,
+                    "left": 635
+                }
+            }
+        ]
     }
 ]
