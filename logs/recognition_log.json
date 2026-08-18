@@ -1,0 +1,53 @@
+[
+    {
+        "timestamp": "2026-08-17T20:30:00",
+        "source": "input/test.jpg",
+        "faces": [
+            {
+                "identity": "hozaif",
+                "confidence": 0.68,
+                "distance": 0.32,
+                "bounding_box": {
+                    "top": 100,
+                    "right": 300,
+                    "bottom": 300,
+                    "left": 150
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-08-18T18:56:34.078174",
+        "source": "input/test.jpg",
+        "faces": [
+            {
+                "identity": "Unknown",
+                "confidence": 0.42,
+                "distance": 0.58,
+                "bounding_box": {
+                    "top": 627,
+                    "right": 710,
+                    "bottom": 702,
+                    "left": 635
+                }
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-08-18T19:02:31.862948",
+        "source": "input/test.jpg",
+        "faces": [
+            {
+                "identity": "hozaif",
+                "confidence": 0.42,
+                "distance": 0.58,
+                "bounding_box": {
+                    "top": 627,
+                    "right": 710,
+                    "bottom": 702,
+                    "left": 635
+                }
+            }
+        ]
+    }
+]
